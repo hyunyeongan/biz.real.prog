@@ -1,3 +1,4 @@
-'# 제목 '
-st.title('안녕하세요')
+import streamlit as st
 
+# 제목
+st.title('제목')
