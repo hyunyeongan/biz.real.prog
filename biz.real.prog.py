@@ -24,8 +24,6 @@ st.latex('\int_a^bf(x)dx')
 '''
 
 
-img_file = st.file_uploader('이미지를 업로드 하세요.', type=['png', 'jpg', 'jpeg'])
-
-st.image("./desktop/ori.png")
+st.image(".icloud_drive/desktop/ori.png")
 
          
