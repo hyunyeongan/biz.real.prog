@@ -7,3 +7,7 @@ st.title('제목:smile:')
 st.markdown('*마크다운 H1: st.write()*')
 
 st.divider()
+
+st.write('##### 코드블록: st.code()')
+st.code('print("Hello World")', language='python')
+st.code('print("Hello World")', language='python', line_numbers=True)
