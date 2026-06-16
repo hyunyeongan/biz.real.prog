@@ -23,8 +23,6 @@ st.latex('\int_a^bf(x)dx')
 3. :green[ordered item]
 '''
 
-st.image("./iCloud_Drive/desktop/ori.png", caption="오리", width=500)
-
 # 단일 데이터 플롯 (y값만 제공 시 x값은 0부터 자동 생성)
 plt.plot([1, 4, 9, 16])
 plt.show()
