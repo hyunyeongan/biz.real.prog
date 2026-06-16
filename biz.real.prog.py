@@ -23,8 +23,6 @@ st.latex('\int_a^bf(x)dx')
 3. :green[ordered item]
 '''
 
-'#### :orange[이미지: st.image()]'
-st.image("./2026_Biz/ori.PNG", caption="파이썬", width=500)
 
 img_file = st.file_uploader('이미지를 업로드 하세요.', type=['png', 'jpg', 'jpeg'])
 
