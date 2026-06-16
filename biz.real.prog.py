@@ -30,5 +30,4 @@ plt.show()
 # 쌍 데이터 플롯 (x값과 y값 모두 제공)
 plt.plot([10, 20, 30, 40], [1, 4, 9, 16])
 plt.show()
-``` [link]2[/link] [link]3[/link]
-'''
+``` [link]2[/link] [link]3[/link]```
