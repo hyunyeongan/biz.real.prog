@@ -23,6 +23,8 @@ st.latex('\int_a^bf(x)dx')
 3. :green[ordered item]
 '''
 
+from PIL import image
+image = Image.open("./desktop/ori.png")
 
 st.image("./iCloud_Drive/데스크탑/ori.png")
 
