@@ -24,6 +24,6 @@ st.latex('\int_a^bf(x)dx')
 '''
 
 
-st.image("./icloud_drive/desktop/ori.png")
+st.image("./iCloud_Drive/desktop/ori.png")
 
          
