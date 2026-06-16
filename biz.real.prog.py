@@ -23,6 +23,6 @@ st.latex('\int_a^bf(x)dx')
 3. :green[ordered item]
 '''
 
-st.image("./iCloud_Drive/데스크탑/ori.png", caption="오리", width=500)
+st.image("./iCloud_Drive/desktop/ori.png", caption="오리", width=500)
 
          
