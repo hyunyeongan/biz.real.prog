@@ -24,5 +24,5 @@ st.latex('\int_a^bf(x)dx')
 '''
 
 '#### :orange[이미지: st.image()]'
-st.image("./data.python.png", caption="파이썬", width=500)
+st.image("./data/data.python.png", caption="파이썬", width=500)
          
