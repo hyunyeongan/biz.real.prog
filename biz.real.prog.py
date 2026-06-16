@@ -13,3 +13,12 @@ st.code('print("Hello World")', language='python')
 st.code('print("Hello World")', language='python', line_numbers=True)
 
 st.latex('a=b^2')
+st.latex('\int_a^bf(x)dx')
+
+'''###:queen:Magic 적용
+1. ordered item
+  -강조: **unordered item**
+  -기울임: *unordered item*
+2. :red[ordered item]
+3. :green[ordered item]
+
