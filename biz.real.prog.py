@@ -26,4 +26,9 @@ st.latex('\int_a^bf(x)dx')
 
 img_file = st.file_uploader('이미지를 업로드 하세요.', type=['png', 'jpg', 'jpeg'])
 
+from PTL import Image
+
+img = Image.open('2026_Biz/ori.png')
+st.image(img)
+
          
