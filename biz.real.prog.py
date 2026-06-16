@@ -31,3 +31,4 @@ plt.show()
 plt.plot([10, 20, 30, 40], [1, 4, 9, 16])
 plt.show()
 ``` [link]2[/link] [link]3[/link]
+'''
